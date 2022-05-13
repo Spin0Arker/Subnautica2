@@ -5,7 +5,7 @@ body {
     
 }
 
-#backgroundtext {    /*base text*/
+#backgroundtext {   
     width: 75%;
     height: 83%;
     left: 12.5%;
@@ -110,6 +110,6 @@ nav > ul li:hover .sous {   /* Permet de montrée les sous section du menu déro
     text-align: center;
 }
 
-#text {
+#text {/*mettre en forme le texte */
     
 }
